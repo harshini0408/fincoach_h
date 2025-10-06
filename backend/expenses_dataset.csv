@@ -499,3 +499,104 @@ date,description,amount,category
 2025-08-13,TNEB transaction 7136,4903.79,Bills
 2025-09-14,Amazon transaction 6259,3783.43,Shopping
 2025-08-20,Disney+ transaction 7154,126.71,Subscriptions
+"Bought tomatoes from Reliance Fresh",120,Groceries
+"Milk and bread from A2B",80,Groceries
+"Dinner at McDonald’s",350,Food
+"Swiggy order",250,Food
+"Uber ride to office",180,Transport
+"Ola cab to railway station",250,Transport
+"Electricity bill payment",1200,Bills
+"Water bill",300,Bills
+"Netflix subscription",499,Entertainment
+"Hotstar premium renewal",899,Entertainment
+"Shopping at Lifestyle",2500,Shopping
+"Amazon purchase for mobile case",350,Shopping
+"Train to Chennai",550,Travel
+"Flight to Delhi",5200,Travel
+"Apollo Pharmacy medicines",300,Health
+"Gym membership payment",1200,Health
+"College canteen snacks",50,Food
+"Big Bazaar groceries",750,Groceries
+"Parking fee",40,Others
+"Credit card late fee",150,Bills
+"Recharge for Jio",239,Bills
+"Donation to NGO",200,Others
+"Pizza Hut order",499,Food
+"Zomato delivery",180,Food
+"Petrol for bike",400,Transport
+"Bus ticket",60,Transport
+"Flight meals",300,Travel
+"Amazon Prime renewal",1499,Subscriptions
+"SonyLIV monthly pack",299,Subscriptions
+"Swiggy Instamart vegetables",350,Groceries
+"tomatoes",50,Groceries
+"chocolates",50,Food
+"movie tickets",200,Entertainment
+"bus fare",30,Travel
+"snacks",40,Food
+"vegetables",100,Groceries
+"milk",60,Groceries
+"bread",40,Groceries
+"cinema",250,Entertainment
+"bazaar groceries",500,Groceries
+"instamart vegetables",120,Groceries
+"canteen snacks",30,Food
+"parking fee",20,Others
+"credit card fee",100,Bills
+"flight ticket",4000,Travel
+"train ticket",300,Travel
+"pizza",350,Food
+"burger",150,Food
+"petrol",500,Transport
+"metro ticket",60,Travel
+"atta, flour, rice, dal, pulses",400,Groceries
+"cooking oil",150,Groceries
+"onions",60,Groceries
+"toothpaste",80,Health
+"toothbrush",50,Health
+"soap",40,Health
+"shampoo",120,Health
+"detergent",180,Groceries
+"vegetable market",350,Groceries
+"milk packet",30,Groceries
+"bread loaf",35,Groceries
+"eggs",60,Groceries
+"chicken",250,Food
+"fish",200,Food
+"paneer",120,Food
+"curd",40,Groceries
+"cheese",90,Food
+"biscuits",50,Food
+"chips",30,Food
+"maggi noodles",40,Food
+"ice cream",80,Food
+"birthday cake",400,Food
+"school fees",5000,Bills
+"college fees",15000,Bills
+"internet bill",999,Bills
+"mobile recharge",299,Bills
+"water can",50,Bills
+"electrician service",500,Others
+"plumber service",400,Others
+"maid salary",3000,Others
+"newspaper",150,Others
+"medicine",200,Health
+"doctor consultation",500,Health
+"vaccination",1000,Health
+"bus pass",600,Travel
+"metro card recharge",200,Travel
+"petrol refill",1000,Transport
+"car service",2500,Transport
+"bike repair",800,Transport
+"movie night",350,Entertainment
+"cricket match tickets",1200,Entertainment
+"music concert",2000,Entertainment
+"shopping mall",3000,Shopping
+"clothes",1200,Shopping
+"shoes",1500,Shopping
+"stationery",200,Shopping
+"books",500,Shopping
+"laptop",45000,Shopping
+"mobile phone",20000,Shopping
+"furniture",10000,Shopping
+"home decor",2500,Shopping

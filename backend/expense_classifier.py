@@ -40,28 +40,55 @@ class ExpenseClassifierImproved:
         # high_priority are checked exact substring presence first; medium are softer matches
         self.merchant_rules = {
             'Food': {
-                'high_priority': ['zomato', 'swiggy', 'dominos', 'mcdonald', 'kfc', 'subway', 'pizza hut', 'burger king'],
-                'medium_priority': ['dunzo', 'bigbasket', 'grofers', 'grocery', 'restaurant', 'cafe', 'dine', 'eat']
+                'high_priority': [
+                    'zomato', 'swiggy', 'dominos', 'mcdonald', 'kfc', 'subway', 'pizza hut', 'burger king',
+                    'chocolates', 'snacks', 'dinner', 'lunch', 'breakfast', 'chicken', 'fish', 'paneer', 'cheese', 'biscuits', 'chips', 'maggi noodles', 'ice cream', 'birthday cake', 'pizza', 'burger', 'canteen snacks', 'meal', 'curd'
+                ],
+                'medium_priority': ['dunzo', 'bigbasket', 'grofers', 'grocery', 'restaurant', 'cafe', 'dine', 'eat', 'meal', 'canteen']
             },
             'Travel': {
-                'high_priority': ['uber', 'ola', 'rapido', 'irctc', 'redbus', 'makemytrip', 'goibibo'],
-                'medium_priority': ['metro', 'taxi', 'cab', 'bus', 'train', 'flight', 'hotel', 'booking']
+                'high_priority': [
+                    'uber', 'ola', 'rapido', 'irctc', 'redbus', 'makemytrip', 'goibibo', 'bus fare', 'train', 'flight', 'bus pass', 'metro card recharge', 'metro ticket', 'flight ticket', 'train ticket'
+                ],
+                'medium_priority': ['metro', 'taxi', 'cab', 'bus', 'train', 'flight', 'hotel', 'booking', 'fare', 'ticket']
             },
             'Shopping': {
-                'high_priority': ['amazon', 'flipkart', 'myntra', 'ajio', 'nykaa', 'meesho', 'snapdeal'],
-                'medium_priority': ['decathlon', 'mall', 'store', 'shopping', 'retail', 'mart']
+                'high_priority': [
+                    'amazon', 'flipkart', 'myntra', 'ajio', 'nykaa', 'meesho', 'snapdeal', 'shopping mall', 'clothes', 'shoes', 'stationery', 'books', 'laptop', 'mobile phone', 'furniture', 'home decor'
+                ],
+                'medium_priority': ['decathlon', 'mall', 'store', 'shopping', 'retail', 'mart', 'purchase']
             },
             'Bills': {
-                'high_priority': ['airtel', 'jio', 'bsnl', 'vodafone', 'tneb', 'bescom', 'torrent'],
-                'medium_priority': ['electricity', 'water', 'gas', 'internet', 'mobile', 'recharge', 'bill']
+                'high_priority': [
+                    'airtel', 'jio', 'bsnl', 'vodafone', 'tneb', 'bescom', 'torrent', 'school fees', 'college fees', 'internet bill', 'mobile recharge', 'water can', 'credit card fee'
+                ],
+                'medium_priority': ['electricity', 'water', 'gas', 'internet', 'mobile', 'recharge', 'bill', 'payment', 'fee']
             },
             'Subscriptions': {
-                'high_priority': ['netflix', 'youtube premium', 'disney+', 'spotify', 'hotstar', 'prime video', 'amazon prime'],
-                'medium_priority': ['subscription', 'monthly', 'annual', 'membership']
+                'high_priority': ['netflix', 'youtube premium', 'disney+', 'spotify', 'hotstar', 'prime video', 'amazon prime', 'amazon prime renewal', 'sonyLIV monthly pack'],
+                'medium_priority': ['subscription', 'monthly', 'annual', 'membership', 'renewal', 'pack']
+            },
+            'Entertainment': {
+                'high_priority': ['movie tickets', 'cinema', 'movies', 'movie night', 'cricket match tickets', 'music concert'],
+                'medium_priority': ['theatre', 'show', 'event']
+            },
+            'Groceries': {
+                'high_priority': [
+                    'tomatoes', 'vegetables', 'milk', 'bread', 'groceries', 'atta', 'flour', 'rice', 'dal', 'pulses', 'cooking oil', 'onions', 'detergent', 'vegetable market', 'milk packet', 'bread loaf', 'eggs', 'bazaar groceries', 'instamart vegetables', 'curd'
+                ],
+                'medium_priority': ['bazaar', 'fresh', 'instamart', 'supermarket']
+            },
+            'Health': {
+                'high_priority': ['toothpaste', 'toothbrush', 'soap', 'shampoo', 'medicine', 'doctor consultation', 'vaccination'],
+                'medium_priority': ['pharmacy', 'medical', 'insurance', 'doctor']
+            },
+            'Transport': {
+                'high_priority': ['petrol refill', 'car service', 'bike repair', 'petrol'],
+                'medium_priority': ['transport']
             },
             'Others': {
-                'high_priority': ['hospital', 'pharmacy', 'medical', 'insurance', 'doctor'],
-                'medium_priority': ['topup', 'wallet', 'donation', 'misc', 'miscellaneous']
+                'high_priority': ['hospital', 'pharmacy', 'medical', 'insurance', 'doctor', 'electrician service', 'plumber service', 'maid salary', 'newspaper', 'parking fee', 'topup', 'wallet', 'donation', 'misc', 'miscellaneous'],
+                'medium_priority': ['topup', 'wallet', 'donation', 'misc', 'miscellaneous', 'parking']
             }
         }
 

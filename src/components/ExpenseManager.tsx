@@ -56,6 +56,7 @@ export default function ExpenseManager() {
     loadData();
   };
 
+  // Uploads CSV file to backend for classification
   const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (!file || !user) return;
@@ -63,32 +64,38 @@ export default function ExpenseManager() {
     setUploading(true);
 
     try {
-      const text = await file.text();
-      const transactions = parseCSV(text);
+      const formData = new FormData();
+      formData.append('file', file);
 
-      const newExpenses: Expense[] = transactions.map(t => {
-        const categoryId = categorizeExpense(t.description, categories);
-
-        return {
-          id: `exp-${Date.now()}-${Math.random()}`,
-          userId: user.id,
-          categoryId,
-          amount: t.amount,
-          description: t.description,
-          transactionDate: t.date,
-          source: 'csv_upload',
-          createdAt: new Date().toISOString(),
-        };
+      // Change URL if backend runs on a different port
+      const response = await fetch('http://localhost:8000/classify-expenses/', {
+        method: 'POST',
+        body: formData,
       });
+
+      if (!response.ok) throw new Error('Backend error');
+      const classifiedExpenses = await response.json();
+
+      // Map backend response to Expense objects
+      const newExpenses: Expense[] = classifiedExpenses.map((exp: any) => ({
+        id: `exp-${Date.now()}-${Math.random()}`,
+        userId: user.id,
+        categoryId: exp.categoryId || categorizeExpense(exp.description, categories),
+        amount: exp.amount,
+        description: exp.description,
+        transactionDate: exp.transactionDate || exp.date,
+        source: 'csv_upload_backend',
+        createdAt: new Date().toISOString(),
+      }));
 
       const allExpenses = storage.getExpenses();
       allExpenses.push(...newExpenses);
       storage.setExpenses(allExpenses);
 
       loadData();
-      alert(`Successfully imported ${newExpenses.length} transactions!`);
-    } catch (error) {
-      alert('Error parsing CSV file. Please check the format.');
+      alert(`Successfully imported ${newExpenses.length} classified transactions!`);
+    } catch (err) {
+      alert('Failed to classify and import transactions.');
     } finally {
       setUploading(false);
       e.target.value = '';
