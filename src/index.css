@@ -1,16 +1,21 @@
+/* Tailwind base, components, utilities */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Custom global styles */
 @layer base {
+  /* Apply a light gray border to all elements */
   * {
-    @apply border-gray-200;
+    @apply border border-gray-200;
   }
 
+  /* Smooth scrolling for the whole page */
   html {
     @apply scroll-smooth;
   }
 
+  /* Background color and default text color */
   body {
     @apply bg-gray-50 text-gray-900;
   }

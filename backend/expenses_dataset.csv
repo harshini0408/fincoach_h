@@ -1,0 +1,501 @@
+date,description,amount,category
+2025-09-17,Ajio transaction 4390,2155.11,Shopping
+2025-02-08,Decathlon transaction 1685,4892.86,Shopping
+2025-03-21,TNEB transaction 8681,3248.87,Bills
+2025-07-01,Airtel transaction 6902,279.86,Bills
+2025-03-01,Metro transaction 3481,4857.44,Travel
+2025-05-11,YouTube Premium transaction 2056,3859.65,Subscriptions
+2025-05-05,IRCTC transaction 4213,4566.83,Travel
+2025-01-23,Rapido transaction 3715,2007.37,Travel
+2025-09-24,BSNL transaction 5906,3169.03,Bills
+2025-05-06,Ajio transaction 1168,1494.28,Shopping
+2025-08-03,Google Pay Topup transaction 3706,2309.2,Others
+2025-03-20,Hospital transaction 8896,2201.64,Others
+2025-09-11,Myntra transaction 3565,663.85,Shopping
+2025-08-08,Ola transaction 2111,2388.06,Travel
+2025-08-09,Amazon transaction 9504,2809.97,Shopping
+2025-08-10,Dunzo transaction 6965,1971.74,Food
+2025-08-10,Disney+ transaction 2981,1509.75,Subscriptions
+2025-07-12,Rapido transaction 1104,4694.96,Travel
+2025-06-07,McDonalds transaction 8521,3325.2,Food
+2025-06-19,Pharmacy transaction 5088,1269.01,Others
+2025-08-29,Dominos transaction 1139,2577.35,Food
+2025-02-10,Swiggy transaction 6686,607.73,Food
+2025-08-17,Donation transaction 1265,294.04,Others
+2025-09-02,Uber transaction 4112,1071.2,Travel
+2025-04-19,Google Pay Topup transaction 4797,4632.37,Others
+2025-02-20,Netflix transaction 4068,4126.84,Subscriptions
+2025-03-15,Dunzo transaction 4507,4903.27,Food
+2025-04-05,Myntra transaction 3601,3312.79,Shopping
+2025-04-28,McDonalds transaction 3948,363.3,Food
+2025-09-30,IRCTC transaction 6480,4107.06,Travel
+2025-01-03,YouTube Premium transaction 2355,3095.1,Subscriptions
+2025-01-05,TNEB transaction 4156,3661.84,Bills
+2025-01-03,Metro transaction 5655,2080.74,Travel
+2025-05-18,BSNL transaction 5104,369.83,Bills
+2025-06-03,Swiggy transaction 1957,4145.08,Food
+2025-03-06,Airtel transaction 6284,1600.56,Bills
+2025-04-27,Zomato transaction 6799,1960.37,Food
+2025-03-28,Disney+ transaction 8621,169.03,Subscriptions
+2025-05-18,McDonalds transaction 5250,3365.35,Food
+2025-02-26,Google Pay Topup transaction 5385,1935.67,Others
+2025-06-25,RedBus transaction 6910,2152.72,Travel
+2025-08-07,Myntra transaction 9981,2346.08,Shopping
+2025-05-07,Google Pay Topup transaction 3826,4149.78,Others
+2025-05-02,Zomato transaction 5319,3649.78,Food
+2025-03-10,Metro transaction 1780,872.01,Travel
+2025-03-21,Google Pay Topup transaction 6345,2411.13,Others
+2025-06-10,Spotify transaction 1685,1595.47,Subscriptions
+2025-03-17,Ajio transaction 6453,3385.35,Shopping
+2025-03-08,Hospital transaction 7830,2236.91,Others
+2025-01-14,Decathlon transaction 4515,3350.56,Shopping
+2025-07-20,Hotstar transaction 7194,307.3,Subscriptions
+2025-06-18,Jio transaction 4530,3550.33,Bills
+2025-09-12,Ajio transaction 5089,1132.49,Shopping
+2025-09-23,Airtel transaction 3518,3442.21,Bills
+2025-01-05,Disney+ transaction 8095,3155.83,Subscriptions
+2025-09-30,Swiggy transaction 9983,4974.69,Food
+2025-05-27,Airtel transaction 5609,4453.59,Bills
+2025-01-09,BSNL transaction 1267,3370.56,Bills
+2025-03-16,BSNL transaction 4194,1750.93,Bills
+2025-06-18,Ajio transaction 6748,4514.66,Shopping
+2025-04-16,McDonalds transaction 9581,4180.65,Food
+2025-07-03,YouTube Premium transaction 8061,238.05,Subscriptions
+2025-08-24,Dunzo transaction 4578,436.62,Food
+2025-01-31,Netflix transaction 9130,3064.67,Subscriptions
+2025-05-29,Donation transaction 4804,71.52,Others
+2025-08-14,KFC transaction 2266,2923.95,Food
+2025-09-15,PhonePe Wallet transaction 5154,628.65,Others
+2025-05-20,Zomato transaction 3854,2908.69,Food
+2025-03-17,RedBus transaction 1195,4322.14,Travel
+2025-06-23,Dominos transaction 5144,4988.15,Food
+2025-08-03,McDonalds transaction 2586,1522.69,Food
+2025-01-13,Dunzo transaction 9716,3904.68,Food
+2025-06-24,Zomato transaction 4470,4484.44,Food
+2025-09-15,BSNL transaction 6007,2007.95,Bills
+2025-01-03,KFC transaction 1182,737.16,Food
+2025-03-05,BSNL transaction 5195,572.45,Bills
+2025-03-15,Donation transaction 9186,2858.85,Others
+2025-07-27,Dominos transaction 7286,3821.04,Food
+2025-04-09,Pharmacy transaction 8189,1500.45,Others
+2025-07-10,Disney+ transaction 9778,2778.32,Subscriptions
+2025-09-21,YouTube Premium transaction 6481,4427.26,Subscriptions
+2025-02-13,Airtel transaction 5705,421.54,Bills
+2025-09-27,Netflix transaction 5281,2150.68,Subscriptions
+2025-09-28,YouTube Premium transaction 5437,927.43,Subscriptions
+2025-07-09,McDonalds transaction 2435,3376.35,Food
+2025-06-01,Ajio transaction 1239,266.39,Shopping
+2025-07-08,Vodafone transaction 4441,263.28,Bills
+2025-08-04,Ola transaction 9435,4016.55,Travel
+2025-09-02,Jio transaction 5209,2945.89,Bills
+2025-06-27,IRCTC transaction 1578,3837.49,Travel
+2025-02-10,Ola transaction 4894,605.47,Travel
+2025-05-07,KFC transaction 8325,1635.89,Food
+2025-09-17,Airtel transaction 9542,3078.3,Bills
+2025-07-12,Zomato transaction 6399,1558.16,Food
+2025-08-06,YouTube Premium transaction 8576,3564.9,Subscriptions
+2025-05-19,Rapido transaction 2613,459.97,Travel
+2025-06-03,Airtel transaction 1696,1542.69,Bills
+2025-09-26,Myntra transaction 9976,1690.2,Shopping
+2025-01-14,RedBus transaction 2710,214.85,Travel
+2025-09-24,Airtel transaction 1368,2464.49,Bills
+2025-04-17,Spotify transaction 1473,2979.58,Subscriptions
+2025-04-21,Donation transaction 8555,3450.33,Others
+2025-08-05,Myntra transaction 2432,299.2,Shopping
+2025-04-14,IRCTC transaction 2313,2089.38,Travel
+2025-02-25,Swiggy transaction 2154,3668.79,Food
+2025-09-14,PhonePe Wallet transaction 8638,2030.89,Others
+2025-01-05,TNEB transaction 2518,1273.16,Bills
+2025-06-21,Pharmacy transaction 3204,4800.31,Others
+2025-01-29,RedBus transaction 7995,2678.68,Travel
+2025-08-30,Metro transaction 4096,4589.06,Travel
+2025-05-19,Flipkart transaction 2755,4673.93,Shopping
+2025-04-01,RedBus transaction 3734,2028.12,Travel
+2025-03-09,Myntra transaction 6701,2984.13,Shopping
+2025-02-24,RedBus transaction 8323,3753.81,Travel
+2025-05-28,BSNL transaction 7490,3199.78,Bills
+2025-06-20,Ajio transaction 6703,1736.12,Shopping
+2025-05-31,Hotstar transaction 7892,1459.92,Subscriptions
+2025-02-10,TNEB transaction 5481,3296.77,Bills
+2025-07-21,Swiggy transaction 7147,4397.88,Food
+2025-07-02,Ola transaction 7055,3883.43,Travel
+2025-07-21,Hospital transaction 1757,788.45,Others
+2025-06-19,Metro transaction 7113,4759.64,Travel
+2025-07-10,KFC transaction 1883,720.07,Food
+2025-02-15,ACT Fibernet transaction 2376,417.21,Bills
+2025-04-12,Vodafone transaction 5834,2697.7,Bills
+2025-01-26,Google Pay Topup transaction 1611,3628.25,Others
+2025-04-09,Disney+ transaction 7972,2106.62,Subscriptions
+2025-04-04,Ajio transaction 5627,4545.46,Shopping
+2025-06-08,PhonePe Wallet transaction 5116,1716.41,Others
+2025-04-07,KFC transaction 7891,436.06,Food
+2025-07-01,Zomato transaction 8599,2516.41,Food
+2025-07-23,Hospital transaction 6900,1302.4,Others
+2025-01-24,Dunzo transaction 5531,3916.16,Food
+2025-07-24,IRCTC transaction 5193,4244.82,Travel
+2025-01-22,Airtel transaction 8389,4131.34,Bills
+2025-04-23,Donation transaction 1512,2137.93,Others
+2025-06-30,Spotify transaction 6376,3242.16,Subscriptions
+2025-08-25,Dominos transaction 1481,918.8,Food
+2025-03-18,YouTube Premium transaction 6602,4530.01,Subscriptions
+2025-03-18,Google Pay Topup transaction 7841,2417.92,Others
+2025-02-05,Ola transaction 4157,1313.67,Travel
+2025-02-04,Decathlon transaction 1395,2706.62,Shopping
+2025-05-16,IRCTC transaction 2143,66.86,Travel
+2025-02-28,Metro transaction 2903,1896.73,Travel
+2025-03-24,YouTube Premium transaction 6774,3376.34,Subscriptions
+2025-08-29,Decathlon transaction 8176,3151.76,Shopping
+2025-03-25,BSNL transaction 6764,1643.78,Bills
+2025-09-01,Netflix transaction 2612,2235.81,Subscriptions
+2025-04-24,Rapido transaction 1045,3568.54,Travel
+2025-04-25,Airtel transaction 5367,405.15,Bills
+2025-08-22,Netflix transaction 7425,575.45,Subscriptions
+2025-06-20,KFC transaction 2433,904.61,Food
+2025-05-01,Zomato transaction 6513,4468.25,Food
+2025-09-30,KFC transaction 3274,791.24,Food
+2025-04-12,ACT Fibernet transaction 9882,4672.23,Bills
+2025-01-01,Netflix transaction 7387,2717.31,Subscriptions
+2025-02-23,Metro transaction 8068,4436.1,Travel
+2025-05-03,IRCTC transaction 9874,3369.21,Travel
+2025-02-13,Myntra transaction 9734,3577.16,Shopping
+2025-09-14,Netflix transaction 2715,4932.07,Subscriptions
+2025-01-20,Pharmacy transaction 3411,2897.68,Others
+2025-02-03,BigBasket transaction 7844,418.07,Food
+2025-01-05,Ola transaction 5287,3225.84,Travel
+2025-05-17,Zomato transaction 8601,3342.74,Food
+2025-03-06,Uber transaction 7188,4703.03,Travel
+2025-09-03,Metro transaction 4799,4928.62,Travel
+2025-03-24,Zomato transaction 8047,888.61,Food
+2025-04-10,Pharmacy transaction 7652,4633.66,Others
+2025-08-24,Airtel transaction 2289,1616.02,Bills
+2025-01-16,Rapido transaction 4397,1485.6,Travel
+2025-04-05,Flipkart transaction 8541,3115.98,Shopping
+2025-01-10,Amazon transaction 3684,837.73,Shopping
+2025-06-30,BigBasket transaction 4202,1378.77,Food
+2025-09-02,Metro transaction 9375,4326.71,Travel
+2025-04-05,IRCTC transaction 6226,4229.04,Travel
+2025-09-05,Airtel transaction 8569,3250.42,Bills
+2025-08-14,Disney+ transaction 6759,771.48,Subscriptions
+2025-07-10,IRCTC transaction 4347,2566.59,Travel
+2025-08-08,Pharmacy transaction 3725,3677.82,Others
+2025-06-17,Rapido transaction 3361,3017.26,Travel
+2025-08-07,Hotstar transaction 2747,145.58,Subscriptions
+2025-08-22,Google Pay Topup transaction 6454,936.59,Others
+2025-03-02,Netflix transaction 4167,1412.07,Subscriptions
+2025-06-17,PhonePe Wallet transaction 9839,1991.28,Others
+2025-06-22,McDonalds transaction 7208,1716.46,Food
+2025-08-15,Google Pay Topup transaction 4257,859.85,Others
+2025-04-07,Dominos transaction 4134,2564.94,Food
+2025-06-23,TNEB transaction 9185,2010.1,Bills
+2025-04-24,Rapido transaction 1636,1430.48,Travel
+2025-03-15,Google Pay Topup transaction 7696,1902.93,Others
+2025-09-26,YouTube Premium transaction 8429,3935.82,Subscriptions
+2025-09-11,Google Pay Topup transaction 8411,4811.06,Others
+2025-02-22,Decathlon transaction 2742,4368.78,Shopping
+2025-04-20,Airtel transaction 1767,2963.79,Bills
+2025-06-24,IRCTC transaction 8183,2298.77,Travel
+2025-09-08,KFC transaction 6520,4412.08,Food
+2025-06-10,Netflix transaction 7118,848.42,Subscriptions
+2025-05-24,Rapido transaction 2269,1661.73,Travel
+2025-01-07,Decathlon transaction 6269,283.36,Shopping
+2025-08-18,Hotstar transaction 6269,2570.18,Subscriptions
+2025-01-17,Pharmacy transaction 9264,1154.97,Others
+2025-03-25,Decathlon transaction 2516,600.77,Shopping
+2025-08-05,ACT Fibernet transaction 2542,3061.88,Bills
+2025-07-30,YouTube Premium transaction 1930,1181.63,Subscriptions
+2025-04-06,Rapido transaction 4771,543.8,Travel
+2025-07-05,Spotify transaction 6167,3876.75,Subscriptions
+2025-02-20,TNEB transaction 7856,738.42,Bills
+2025-06-06,Hotstar transaction 1049,4800.31,Subscriptions
+2025-08-07,Pharmacy transaction 9424,4576.31,Others
+2025-08-28,Disney+ transaction 2016,4291.13,Subscriptions
+2025-07-13,Ajio transaction 1895,362.09,Shopping
+2025-01-12,Netflix transaction 6679,4490.79,Subscriptions
+2025-01-18,Hotstar transaction 8603,1807.59,Subscriptions
+2025-03-15,BSNL transaction 6632,4129.65,Bills
+2025-05-16,ACT Fibernet transaction 6778,3557.93,Bills
+2025-09-25,IRCTC transaction 3533,2921.76,Travel
+2025-06-08,Metro transaction 5623,2790.8,Travel
+2025-07-18,Rapido transaction 4572,2973.87,Travel
+2025-09-29,Dominos transaction 2296,3803.74,Food
+2025-09-22,Flipkart transaction 4787,2927.03,Shopping
+2025-04-13,Netflix transaction 5307,817.1,Subscriptions
+2025-06-17,IRCTC transaction 1464,2704.22,Travel
+2025-04-19,YouTube Premium transaction 3600,1374.4,Subscriptions
+2025-07-10,IRCTC transaction 5024,4844.56,Travel
+2025-06-13,Dunzo transaction 1444,2000.24,Food
+2025-02-13,Ajio transaction 5845,3263.34,Shopping
+2025-05-30,Spotify transaction 2391,2312.54,Subscriptions
+2025-01-17,Flipkart transaction 9790,249.74,Shopping
+2025-08-16,Myntra transaction 5373,3774.41,Shopping
+2025-05-08,YouTube Premium transaction 4864,1374.27,Subscriptions
+2025-01-14,KFC transaction 2005,230.07,Food
+2025-08-06,Google Pay Topup transaction 3096,202.88,Others
+2025-01-28,Dunzo transaction 3979,3280.55,Food
+2025-05-08,Pharmacy transaction 7420,4934.81,Others
+2025-01-02,Hotstar transaction 2754,4901.66,Subscriptions
+2025-01-12,Dominos transaction 7434,1925.42,Food
+2025-06-15,Rapido transaction 3199,4758.77,Travel
+2025-03-16,Swiggy transaction 5615,2593.29,Food
+2025-07-10,Pharmacy transaction 7952,2723.96,Others
+2025-08-05,TNEB transaction 5657,2605.91,Bills
+2025-05-23,Ajio transaction 1935,2342.06,Shopping
+2025-08-10,Pharmacy transaction 6194,2318.53,Others
+2025-07-08,Swiggy transaction 5424,1057.27,Food
+2025-07-23,TNEB transaction 4724,1833.78,Bills
+2025-01-27,Ajio transaction 6695,2619.62,Shopping
+2025-01-18,BSNL transaction 1320,2899.75,Bills
+2025-05-29,Google Pay Topup transaction 9723,2745.36,Others
+2025-09-29,Swiggy transaction 2529,4407.71,Food
+2025-04-24,Vodafone transaction 7032,116.55,Bills
+2025-09-10,Myntra transaction 8070,1828.94,Shopping
+2025-09-10,Amazon transaction 4519,3063.97,Shopping
+2025-08-28,Amazon transaction 7037,4584.5,Shopping
+2025-07-15,Amazon transaction 1992,1185.02,Shopping
+2025-06-30,PhonePe Wallet transaction 2024,1380.46,Others
+2025-02-18,ACT Fibernet transaction 7203,1857.64,Bills
+2025-09-07,ACT Fibernet transaction 6010,2873.12,Bills
+2025-09-30,Pharmacy transaction 9387,4960.02,Others
+2025-07-26,Uber transaction 7205,2587.85,Travel
+2025-08-14,RedBus transaction 2511,1611.55,Travel
+2025-01-06,KFC transaction 6047,1431.08,Food
+2025-01-30,RedBus transaction 8031,1252.28,Travel
+2025-04-06,Ola transaction 1197,3911.97,Travel
+2025-02-25,IRCTC transaction 2266,2021.68,Travel
+2025-01-08,KFC transaction 4164,4887.5,Food
+2025-06-16,Vodafone transaction 9513,1063.93,Bills
+2025-04-26,Zomato transaction 8978,1017.9,Food
+2025-07-15,Ajio transaction 2423,465.53,Shopping
+2025-01-24,Uber transaction 3308,2090.24,Travel
+2025-08-15,Hotstar transaction 5421,1001.24,Subscriptions
+2025-07-18,Ajio transaction 9265,357.06,Shopping
+2025-08-14,Metro transaction 7817,4011.79,Travel
+2025-03-05,Vodafone transaction 7756,3337.6,Bills
+2025-08-29,Swiggy transaction 6815,1051.46,Food
+2025-05-05,BSNL transaction 1832,3996.05,Bills
+2025-06-16,Google Pay Topup transaction 3128,1794.44,Others
+2025-06-25,Airtel transaction 5810,2064.32,Bills
+2025-04-24,Donation transaction 5625,167.12,Others
+2025-08-17,Flipkart transaction 1779,3116.95,Shopping
+2025-06-04,Uber transaction 6502,3905.48,Travel
+2025-06-23,Amazon transaction 3693,3802.18,Shopping
+2025-02-11,YouTube Premium transaction 1590,611.46,Subscriptions
+2025-04-29,Jio transaction 6373,4589.76,Bills
+2025-01-24,ACT Fibernet transaction 6285,823.92,Bills
+2025-04-15,Ola transaction 6461,321.37,Travel
+2025-04-10,RedBus transaction 1424,4875.32,Travel
+2025-09-10,Spotify transaction 8676,2936.19,Subscriptions
+2025-07-30,McDonalds transaction 9004,1476.63,Food
+2025-09-11,Amazon transaction 5836,613.36,Shopping
+2025-06-17,Rapido transaction 8353,2293.79,Travel
+2025-09-07,ACT Fibernet transaction 3381,1862.92,Bills
+2025-03-21,Rapido transaction 2250,415.47,Travel
+2025-03-17,YouTube Premium transaction 5208,1115.42,Subscriptions
+2025-09-21,Hospital transaction 4450,364.42,Others
+2025-07-11,Rapido transaction 1684,2505.06,Travel
+2025-06-06,McDonalds transaction 2280,601.45,Food
+2025-04-17,Disney+ transaction 1179,1493.67,Subscriptions
+2025-06-14,IRCTC transaction 7035,2676.94,Travel
+2025-02-21,Swiggy transaction 6945,3301.87,Food
+2025-09-17,Vodafone transaction 1158,1099.67,Bills
+2025-07-21,RedBus transaction 3857,427.61,Travel
+2025-09-28,Donation transaction 4830,4122.14,Others
+2025-03-08,McDonalds transaction 3989,3579.07,Food
+2025-09-03,McDonalds transaction 9553,921.11,Food
+2025-08-20,Metro transaction 4827,233.4,Travel
+2025-04-05,YouTube Premium transaction 4163,2269.13,Subscriptions
+2025-05-20,IRCTC transaction 9223,466.2,Travel
+2025-04-03,Uber transaction 3746,4318.06,Travel
+2025-08-01,RedBus transaction 7240,3129.69,Travel
+2025-08-04,RedBus transaction 4930,228.31,Travel
+2025-05-25,YouTube Premium transaction 4167,3451.58,Subscriptions
+2025-01-10,BSNL transaction 7099,2020.34,Bills
+2025-04-27,Decathlon transaction 4358,248.1,Shopping
+2025-08-17,Dunzo transaction 7533,2798.69,Food
+2025-06-16,Zomato transaction 1061,3287.94,Food
+2025-05-17,Donation transaction 1296,4671.19,Others
+2025-01-02,Jio transaction 8625,448.01,Bills
+2025-01-25,Hospital transaction 3555,3177.52,Others
+2025-09-28,Airtel transaction 9991,4989.29,Bills
+2025-07-05,Zomato transaction 2278,1198.95,Food
+2025-01-23,Airtel transaction 6858,1949.27,Bills
+2025-06-26,Amazon transaction 8069,3376.19,Shopping
+2025-09-06,Dominos transaction 2035,2076.12,Food
+2025-01-16,Spotify transaction 7467,4906.33,Subscriptions
+2025-08-16,Jio transaction 4619,679.81,Bills
+2025-04-27,Disney+ transaction 5862,3705.96,Subscriptions
+2025-07-30,Myntra transaction 5753,2524.59,Shopping
+2025-01-20,BSNL transaction 5731,2828.62,Bills
+2025-08-17,Swiggy transaction 1196,1269.32,Food
+2025-02-26,Hospital transaction 8135,4930.7,Others
+2025-09-19,Metro transaction 4195,207.56,Travel
+2025-09-16,Ajio transaction 2812,997.08,Shopping
+2025-02-02,Hospital transaction 6044,1345.29,Others
+2025-09-20,Hotstar transaction 7252,1905.21,Subscriptions
+2025-05-28,Amazon transaction 9741,4574.75,Shopping
+2025-05-30,Netflix transaction 4818,3629.04,Subscriptions
+2025-04-13,Uber transaction 5828,1019.68,Travel
+2025-07-09,TNEB transaction 6579,4156.63,Bills
+2025-02-16,BigBasket transaction 4257,1066.8,Food
+2025-03-06,Jio transaction 8292,995.49,Bills
+2025-01-05,Decathlon transaction 2066,3256.11,Shopping
+2025-08-20,Google Pay Topup transaction 6390,1133.24,Others
+2025-04-18,Google Pay Topup transaction 7620,1765.99,Others
+2025-04-04,Rapido transaction 9306,696.23,Travel
+2025-07-28,Metro transaction 1396,2981.1,Travel
+2025-04-24,Zomato transaction 7765,3886.05,Food
+2025-03-23,Disney+ transaction 5461,4088.12,Subscriptions
+2025-01-03,Google Pay Topup transaction 4765,4714.12,Others
+2025-09-11,Amazon transaction 5255,2106.57,Shopping
+2025-04-12,Hospital transaction 2336,1054.75,Others
+2025-03-03,Swiggy transaction 9932,1531.25,Food
+2025-03-19,YouTube Premium transaction 2094,704.18,Subscriptions
+2025-08-28,PhonePe Wallet transaction 6416,82.57,Others
+2025-09-20,BigBasket transaction 7434,1906.5,Food
+2025-04-26,Netflix transaction 1150,4230.19,Subscriptions
+2025-07-14,Disney+ transaction 8163,4625.2,Subscriptions
+2025-02-07,Ola transaction 1954,2398.04,Travel
+2025-04-01,Airtel transaction 2996,4744.61,Bills
+2025-08-21,RedBus transaction 6844,2153.26,Travel
+2025-01-18,TNEB transaction 7560,1930.04,Bills
+2025-07-26,BigBasket transaction 9312,1461.85,Food
+2025-07-12,Amazon transaction 7780,4236.62,Shopping
+2025-08-25,Disney+ transaction 8842,4886.71,Subscriptions
+2025-05-15,Donation transaction 4829,4025.3,Others
+2025-05-31,Metro transaction 9665,2059.78,Travel
+2025-03-26,Airtel transaction 2450,484.98,Bills
+2025-02-18,Hospital transaction 5191,170.27,Others
+2025-01-04,Amazon transaction 7708,4620.95,Shopping
+2025-08-09,Metro transaction 6858,4644.88,Travel
+2025-03-07,BSNL transaction 9789,2512.46,Bills
+2025-07-26,Amazon transaction 9667,4158.31,Shopping
+2025-05-25,Hospital transaction 8368,3362.03,Others
+2025-02-19,Ola transaction 8373,3234.71,Travel
+2025-05-30,Spotify transaction 9657,1098.66,Subscriptions
+2025-08-16,BSNL transaction 7824,974.73,Bills
+2025-09-01,YouTube Premium transaction 8040,1241.58,Subscriptions
+2025-05-04,Metro transaction 4283,3068.85,Travel
+2025-03-10,Amazon transaction 4673,1922.68,Shopping
+2025-08-12,Swiggy transaction 3133,3013.45,Food
+2025-08-04,Hospital transaction 3416,2590.2,Others
+2025-08-26,PhonePe Wallet transaction 8314,813.18,Others
+2025-08-28,Donation transaction 5817,3824.27,Others
+2025-08-13,Vodafone transaction 3472,2070.53,Bills
+2025-05-24,BigBasket transaction 7863,51.86,Food
+2025-06-20,Airtel transaction 4261,536.71,Bills
+2025-07-28,Pharmacy transaction 8485,752.03,Others
+2025-04-29,Airtel transaction 7218,4719.14,Bills
+2025-06-08,BigBasket transaction 8245,1240.92,Food
+2025-03-18,Google Pay Topup transaction 7646,1854.03,Others
+2025-06-29,Ajio transaction 3628,2480.1,Shopping
+2025-09-19,YouTube Premium transaction 4939,2854.6,Subscriptions
+2025-08-06,Myntra transaction 7316,111.88,Shopping
+2025-06-30,Uber transaction 9554,1473.29,Travel
+2025-02-08,Dunzo transaction 6937,1977.88,Food
+2025-08-27,BSNL transaction 7347,3883.49,Bills
+2025-05-20,IRCTC transaction 1297,4725.6,Travel
+2025-06-14,RedBus transaction 8805,3521.18,Travel
+2025-06-25,Zomato transaction 6927,4682.72,Food
+2025-05-13,Ola transaction 4119,2690.23,Travel
+2025-02-11,Amazon transaction 2619,2309.32,Shopping
+2025-06-14,Hospital transaction 2260,830.95,Others
+2025-02-05,Google Pay Topup transaction 6529,2269.97,Others
+2025-01-23,Disney+ transaction 5201,741.82,Subscriptions
+2025-06-03,Uber transaction 1426,1109.08,Travel
+2025-04-21,Google Pay Topup transaction 6490,4465.6,Others
+2025-06-26,Spotify transaction 6177,1266.16,Subscriptions
+2025-03-06,Myntra transaction 2882,4778.01,Shopping
+2025-01-15,Donation transaction 2768,4637.15,Others
+2025-04-20,Spotify transaction 5408,1539.14,Subscriptions
+2025-06-01,Ola transaction 5855,2802.87,Travel
+2025-05-21,Pharmacy transaction 2940,4075.53,Others
+2025-09-15,Ola transaction 6300,3775.92,Travel
+2025-08-19,Metro transaction 1035,3374.68,Travel
+2025-09-02,BSNL transaction 7000,4088.68,Bills
+2025-01-12,TNEB transaction 7015,158.95,Bills
+2025-07-13,Rapido transaction 8017,1093.68,Travel
+2025-04-19,Amazon transaction 1444,176.69,Shopping
+2025-05-05,Swiggy transaction 7571,3422.39,Food
+2025-06-10,BigBasket transaction 8295,3878.77,Food
+2025-06-07,Airtel transaction 5430,1899.42,Bills
+2025-06-06,Netflix transaction 2940,4648.65,Subscriptions
+2025-05-16,Hotstar transaction 3331,3944.09,Subscriptions
+2025-09-23,Ajio transaction 8971,4258.56,Shopping
+2025-03-19,Google Pay Topup transaction 3735,4937.98,Others
+2025-04-01,Flipkart transaction 1775,4977.53,Shopping
+2025-03-28,Hotstar transaction 1274,2409.8,Subscriptions
+2025-05-16,Airtel transaction 6537,4345.73,Bills
+2025-03-14,McDonalds transaction 2909,1662.36,Food
+2025-08-27,Vodafone transaction 6296,727.17,Bills
+2025-07-12,Metro transaction 5529,2683.32,Travel
+2025-07-08,Metro transaction 1906,4067.26,Travel
+2025-09-15,Disney+ transaction 3842,3442.18,Subscriptions
+2025-07-01,Disney+ transaction 8912,433.38,Subscriptions
+2025-06-10,Uber transaction 9498,2592.09,Travel
+2025-02-26,Flipkart transaction 7538,159.87,Shopping
+2025-03-28,Netflix transaction 6976,4393.02,Subscriptions
+2025-06-13,Ola transaction 2038,914.45,Travel
+2025-09-01,Netflix transaction 9155,433.53,Subscriptions
+2025-03-21,RedBus transaction 9526,450.44,Travel
+2025-02-10,Swiggy transaction 5300,1948.44,Food
+2025-03-13,Jio transaction 3998,2219.95,Bills
+2025-02-04,Myntra transaction 4653,481.29,Shopping
+2025-04-12,Decathlon transaction 7111,4372.2,Shopping
+2025-02-19,Pharmacy transaction 1602,2704.72,Others
+2025-09-28,Pharmacy transaction 3125,4884.93,Others
+2025-06-10,Myntra transaction 1398,3028.8,Shopping
+2025-06-08,Donation transaction 3717,1863.49,Others
+2025-07-20,Donation transaction 3241,2376.84,Others
+2025-05-12,TNEB transaction 9752,398.95,Bills
+2025-01-01,Swiggy transaction 1217,641.4,Food
+2025-05-23,Uber transaction 4638,2990.07,Travel
+2025-02-16,Ajio transaction 2603,4751.82,Shopping
+2025-01-31,PhonePe Wallet transaction 5200,2541.12,Others
+2025-01-10,Ola transaction 4465,965.68,Travel
+2025-06-12,Flipkart transaction 7533,752.75,Shopping
+2025-07-03,Metro transaction 3601,3671.02,Travel
+2025-09-14,PhonePe Wallet transaction 1960,3462.29,Others
+2025-08-02,Ajio transaction 6810,2592.24,Shopping
+2025-06-18,Ola transaction 1333,4331.23,Travel
+2025-09-05,Ola transaction 2142,553.92,Travel
+2025-03-31,Hospital transaction 5522,1995.77,Others
+2025-09-04,Hospital transaction 3427,4852.98,Others
+2025-07-31,Swiggy transaction 1324,290.44,Food
+2025-08-13,Amazon transaction 4944,1783.05,Shopping
+2025-01-26,Disney+ transaction 6279,1306.69,Subscriptions
+2025-07-24,Uber transaction 5918,874.23,Travel
+2025-01-19,Swiggy transaction 4846,1224.63,Food
+2025-05-22,BigBasket transaction 5159,3580.82,Food
+2025-06-11,KFC transaction 5353,3904.88,Food
+2025-04-19,KFC transaction 7589,3741.43,Food
+2025-07-05,Uber transaction 2811,2140.86,Travel
+2025-01-15,Uber transaction 1316,2257.77,Travel
+2025-07-24,Pharmacy transaction 4250,351.54,Others
+2025-03-23,Netflix transaction 6501,2436.94,Subscriptions
+2025-07-12,Zomato transaction 2786,2461.22,Food
+2025-07-23,McDonalds transaction 6493,3879.9,Food
+2025-03-21,BigBasket transaction 3860,3197.08,Food
+2025-08-01,Rapido transaction 2597,2294.86,Travel
+2025-04-22,Vodafone transaction 4968,883.18,Bills
+2025-06-20,Uber transaction 5486,1063.89,Travel
+2025-07-22,Amazon transaction 8214,858.37,Shopping
+2025-03-11,YouTube Premium transaction 5907,1943.28,Subscriptions
+2025-02-23,Rapido transaction 8728,453.32,Travel
+2025-01-31,Ajio transaction 3410,2266.42,Shopping
+2025-06-18,Swiggy transaction 3100,4095.27,Food
+2025-05-09,Ajio transaction 1147,3235.85,Shopping
+2025-03-29,Zomato transaction 1472,3287.45,Food
+2025-09-19,Google Pay Topup transaction 3736,4417.55,Others
+2025-09-06,YouTube Premium transaction 2368,1768.88,Subscriptions
+2025-03-23,RedBus transaction 4914,4477.11,Travel
+2025-08-30,IRCTC transaction 1033,208.26,Travel
+2025-07-05,Airtel transaction 6826,3800.25,Bills
+2025-01-12,Airtel transaction 1329,3456.48,Bills
+2025-08-16,BigBasket transaction 6470,872.38,Food
+2025-01-31,Disney+ transaction 5861,2240.21,Subscriptions
+2025-05-25,Amazon transaction 2604,1537.29,Shopping
+2025-09-16,Ajio transaction 9117,1102.25,Shopping
+2025-05-07,Metro transaction 8623,4904.03,Travel
+2025-08-13,TNEB transaction 7136,4903.79,Bills
+2025-09-14,Amazon transaction 6259,3783.43,Shopping
+2025-08-20,Disney+ transaction 7154,126.71,Subscriptions
