@@ -1,13 +1,3 @@
-# expense_classifier_improved.py
-"""
-Improved FinCoach Expense Classifier
-- Merchant normalization + fuzzy matching
-- Rule-first + ML fallback
-- Explainable reasons for predictions
-- Active-learning logging of low-confidence cases
-- Optional hierarchical subcategory support
-"""
-
 import re
 import json
 import os
@@ -34,7 +24,7 @@ REVIEW_CSV = "review_queue.csv"
 MODEL_FILE_DEFAULT = "expense_classifier_improved.pkl"
 # -----------------------------------
 
-class ExpenseClassifierImproved:
+class ExpenseClassifier:
     def __init__(self):
         # Merchant rules mapping: canonical merchant substrings -> (category, optional subcategory)
         # high_priority are checked exact substring presence first; medium are softer matches
@@ -460,3 +450,4 @@ if __name__ == "__main__":
     classifier, results = train_and_demo(csv_path='expenses_dataset.csv')
     # print sample
     print(results.head(10).to_string(index=False))
+ExpenseClassifierImproved = ExpenseClassifier

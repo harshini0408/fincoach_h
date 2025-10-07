@@ -1,22 +1,17 @@
-/* Tailwind base, components, utilities */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Custom global styles */
-@layer base {
-  /* Apply a light gray border to all elements */
-  * {
-    @apply border border-gray-200;
+@layer components {
+  .card {
+    @apply bg-white rounded-lg shadow-md p-6;
   }
-
-  /* Smooth scrolling for the whole page */
-  html {
-    @apply scroll-smooth;
+  
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors;
   }
-
-  /* Background color and default text color */
-  body {
-    @apply bg-gray-50 text-gray-900;
+  
+  .btn-secondary {
+    @apply bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px-4 rounded-lg transition-colors;
   }
 }

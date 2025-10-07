@@ -749,3 +749,4 @@ if __name__ == "__main__":
     print("✅ Context-aware, personality-driven responses")
     print("✅ Emotional intelligence and conversational memory")
     print("✅ Perfect for integration with your FinCoach app!")
+ChatbotCoach = AdvancedFinancialChatbot

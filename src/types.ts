@@ -1,3 +1,4 @@
+// src/types.ts
 export interface User {
   id: string;
   username: string;
@@ -5,30 +6,31 @@ export interface User {
   passwordHash: string;
 }
 
-export interface Category {
-  id: string;
-  name: string;
-  color: string;
-  icon: string;
-  keywords: string[];
-}
-
 export interface Expense {
   id: string;
   userId: string;
-  categoryId: string;
-  amount: number;
-  description: string;
   transactionDate: string;
-  source: 'manual' | 'csv_upload';
-  createdAt: string;
+  description: string;
+  amount: number;
+  categoryId: string;
+  predicted_category?: string;  // ✅ Added this
+  confidence?: number;
+}
+
+export interface Category {
+  id: string;
+  name: string;
+  icon: string;
+  color: string;
 }
 
 export interface SavingsGoal {
   id: string;
   userId: string;
+  name: string;
   monthlyTarget: number;
-  currentMonth: string;
+  currentAmount: number;
+  deadline?: string;
   active: boolean;
 }
 
@@ -40,17 +42,8 @@ export interface ChatMessage {
   createdAt: string;
 }
 
-export interface SpendingInsight {
-  category: string;
-  amount: number;
-  percentage: number;
-  color: string;
-}
-
 export interface AIAdvice {
   id: string;
-  title: string;
   message: string;
-  potentialSavings?: number;
-  category?: string;
+  type: 'warning' | 'success' | 'info';  // ✅ Fixed this
 }
